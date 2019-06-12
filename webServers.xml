@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="764a32cc-cc84-4708-8a41-9c050563f3b3" name="urp@oreo.uilab.kr:22 (1)" url="http://oreo.uilab.kr">
+        <fileTransfer host="oreo.uilab.kr" port="22" rootFolder="/home/urp" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="764a32cc-cc84-4708-8a41-9c050563f3b3" name="urp@oreo.uilab.kr:22 (2)" url="http:///">
+        <fileTransfer host="oreo.uilab.kr" port="22" rootFolder="/home/urp" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="764a32cc-cc84-4708-8a41-9c050563f3b3" name="urp@oreo.uilab.kr:22 (3)" url="http:///">
+        <fileTransfer host="oreo.uilab.kr" port="22" rootFolder="/home/urp" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="764a32cc-cc84-4708-8a41-9c050563f3b3" name="urp@oreo.uilab.kr:22 (4)" url="http:///">
+        <fileTransfer host="oreo.uilab.kr" port="22" rootFolder="/home/urp" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="98ddb230-54c7-4bb5-aa72-c65e695e9aa5" name="Copy of project-level server 'oreo-server'" url="http://oreo.uilab.kr">
+        <fileTransfer host="oreo.uilab.kr" port="22" rootFolder="/home/urp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
